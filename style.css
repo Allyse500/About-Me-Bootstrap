@@ -1,0 +1,42 @@
+.body
+{background-image: url('https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/98225347_588050528734227_7529942547452395520_o.jpg?_nc_cat=106&_nc_sid=e3f864&_nc_ohc=gq3eqNLHtiUAX_sKhoU&_nc_ht=scontent-dfw5-2.xx&oh=ef87a9e6048c6847d731b9c7cbfd175a&oe=5F436989');}
+
+h1{
+ font-size: 350%;
+ border-bottom: 6px double rgba(255, 215, 0, 0.3);
+}
+
+
+
+
+.left{
+    float: left;
+    width: 33%;
+    }
+
+div.right{
+    position: absolute;
+    top: 23%;
+    left: 40%;
+    width: 50%;
+    background-color:rgb(12, 207, 221);
+    opacity:0.3;
+    border: 2px double gold;
+    border-width: 5px;
+    border-radius: 8px;
+    color: rgb(12, 207, 221);
+    font-size: 125%;
+    }
+
+div.right2{
+    position: absolute;
+    top: 22.25%;
+    left: 41.5%;
+    width: 48%;
+    }
+
+.Autobio{font-size: 130%;
+         margin-bottom: -10px;}
+
+.Description{font-size: 125%;}
+    
